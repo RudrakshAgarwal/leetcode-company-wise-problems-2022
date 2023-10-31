@@ -3,7 +3,7 @@
 
 Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 
-Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/RudrakshAgarwal/Leetcode) repo for solutions.
+Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/RudrakshAgarwal/leetcode-company-wise-problems-2022) repo for solutions.
 
 ## Company Index
 1. [APT Portfolio](#apt-portfolio)
